@@ -1,0 +1,19 @@
+header{
+    text-align: center;
+    color: rgb(37, 37, 168);
+}
+main{
+    margin-left: 35%;
+    margin-right: 35%;
+}
+small{
+    text-align: left;
+}
+h3{
+    text-align: left;
+}
+button{
+    font-style: bold;
+    color: white;
+    background-color:rgb(37, 37, 168) ;
+}
