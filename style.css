@@ -1,9 +1,11 @@
 header{
     color: rgb(37, 37, 168);
 }
-
 button{
     font-style: bold;
     color: white;
     background-color:rgb(37, 37, 168) ;
+}
+main{
+    margin-left: 5%;
 }
