@@ -1,11 +1,20 @@
 header{
     color: rgb(37, 37, 168);
+   
 }
 button{
     font-style: bold;
     color: white;
     background-color:rgb(37, 37, 168) ;
+    border-width: 0.1cm;
+    margin-top: 0.18cm;
+    border-color: rgb(93, 164, 164);
+    box-shadow: 0.5cm;
 }
 main{
     margin-left: 5%;
+}
+body{
+    background-color: rgb(241, 233, 228);
+    align-items: center;
 }
